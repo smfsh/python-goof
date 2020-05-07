@@ -38,7 +38,7 @@ setup(
 
     # Dependent packages (distributions)
     install_requires=[
-        'Flask==0.10.1',
+        'Flask==1.0',
         'Flask-Testing==0.4.2',
         'itsdangerous==0.24',
         'Jinja2==2.8',
